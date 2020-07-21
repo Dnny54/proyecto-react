@@ -1,0 +1,21 @@
+.perfil {
+    width: 16em;
+    height: 22em;
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#fotoPerfil {
+    margin-top: .4em;
+    width: 10em;
+    height: 13em;
+    border-radius: .5em;
+}
+.datos {
+    padding: 0;
+    margin-bottom: 0;
+}
+p {
+    margin-top: .3em;
+}

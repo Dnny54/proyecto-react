@@ -1,0 +1,15 @@
+.univ {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid;
+    width: 16em;
+    height: 22em;
+}
+#logoUniv {
+    width: 11em;
+    height: 17em;
+}
+a {
+    padding: 1em;
+}

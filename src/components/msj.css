@@ -1,0 +1,32 @@
+#texto {
+    width: 30em;
+    height: 6em;
+    text-align: center;
+}
+h2{
+    font-family: 'Arial Narrow';
+}
+#redes {
+    width: 12em;
+    height: 3em;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.fotoRedes {
+    width: 2em;
+    height: 2em;
+}
+.fotoRedes:hover {
+    width: 2.3em;
+    height: 2.3em;
+}
+#atomo {
+    width: 4.5em;
+    height: 4.5em;
+    transition: all 5s;
+}
+#atomo:hover {
+    transform: rotateZ(360deg);
+}
